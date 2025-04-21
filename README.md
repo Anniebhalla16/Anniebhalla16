@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Annie Bhalla  
+### Robotics | AI | Autonomy | Space Systems
 
-<!--
-**Anniebhalla16/Anniebhalla16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a robotics engineer and AI researcher passionate about building intelligent systems for space exploration. Currently pursuing my MSc in Autonomous Systems at the University of Stuttgart, I'm also working on my Master's thesis at **DLR (German Aerospace Center)** on **multi-spectral SLAM for planetary robotics**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛰️ Interests
+- Visual-Inertial SLAM 
+- Autonomous navigation for planetary rovers  
+- Hyperspectral imaging for terrain understanding  
+- Human-robot interaction 
+- AI for perception in harsh environments
+
+---
+
+### 🚀 Current Projects
+- **Multi-spectral SLAM for Planetary Exploration** – DLR thesis  
+- **Cybersickness in VR** – Investigating sensory cues and mitigation  
+- **Semantic Digital Twins** – Knowledge graph modeling for co-design  
+- **3D Graph SLAM** – From scratch implementation using manifold perturbations
+
+---
+
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/anniebhalla)
+- [Email](mailto:anniebhalla16@gmail.com)
+
+---
+
+> “The Earth is the cradle of humanity, but one cannot remain in the cradle forever.” – Konstantin Tsiolkovsky
+
