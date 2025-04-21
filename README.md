@@ -6,7 +6,7 @@ I'm pasionate about Robotics & AI and building intelligent systems for space exp
 ---
 
 ### 🛰️ Interests
-- Visual-Inertial SLAM 
+- SLAM Systems
 - Autonomous navigation for planetary rovers  
 - Hyperspectral imaging for terrain understanding  
 - Human-robot interaction 
