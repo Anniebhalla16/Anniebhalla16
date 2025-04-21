@@ -1,4 +1,4 @@
-# Hi there, I'm Annie Bhalla  
+# Hi there 👋, I'm Annie Bhalla
 ### Robotics | AI | Autonomy | Space Systems
 
 I'm pasionate about Robotics & AI and building intelligent systems for space exploration. Currently pursuing my MSc in Autonomous Systems at the University of Stuttgart, I'm also working on my Master's thesis at **DLR (German Aerospace Center)** on **multi-spectral SLAM for planetary robotics**.
