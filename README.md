@@ -3,14 +3,14 @@
 # 👋 Hi there, I'm Annie Bhalla  
 **Artificial Intelligence | Machine Learning | Robotics | Space Systems**
 
-I'm passionate about **Artificial Intelligence** and **Robotics**, with a focus on building **intelligent autonomous systems** for space exploration.  
+I'm passionate about **Artificial Intelligence** and **Robotics**, with a focus on building **intelligent autonomous systems**.  
 Currently, I’m pursuing my **MSc in Autonomous Systems** at the **University of Stuttgart**, while working on my **Master’s thesis** at **DLR (German Aerospace Center)**, developing **multi-spectral SLAM algorithms** for planetary robotics using AI-driven perception techniques.
 
 ---
 
 ## 🛰️ Research Interests
 - AI-based SLAM and mapping systems
-- Machine learning for autonomous navigation of planetary rovers
+- Machine learning for autonomous navigation 
 - Hyperspectral imaging and deep learning for terrain classification
 - Human-robot interaction enhanced by reinforcement learning
 - Robust AI perception in harsh and unstructured environments
