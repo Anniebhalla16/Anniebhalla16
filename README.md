@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Annie Bhalla  
 **Artificial Intelligence | Software Engineering | Machine Learning | Robotics | Space Systems**
 
-I'm passionate about **Engineering Software solutions**, **Artificial Intelligence** and **Robotics**, with a focus on building **intelligent autonomous systems**.  
+I'm passionate about **Engineering end-to-end Software solutions**, **Artificial Intelligence** and **Robotics**, with a focus on building **intelligent autonomous systems**.  
 Currently, I’m pursuing my **MSc in Autonomous Systems** at the **University of Stuttgart**, while working on my **Master’s thesis** at **DLR (German Aerospace Center)**, developing **multi-spectral SLAM algorithms** for planetary robotics using AI-driven perception techniques.
 
 ### 📫 Let's Connect
